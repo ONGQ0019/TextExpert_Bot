@@ -1,5 +1,5 @@
 # TextExpert_Bot
-A telegram bot that allows users to convert images to text and paraphrase it. Supported Languages: En, Chi
+A telegram bot that allows users to convert images to text and paraphrase it. Supported Languages: En, Chi.
 Here is an introductory video:
 
 
